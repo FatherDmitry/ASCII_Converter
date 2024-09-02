@@ -1,0 +1,7 @@
+D:\0 My Files\My Program\Csharp\ASCIIConverter\ASCIIConverter\bin\Debug\ASCIIConverter.exe.config
+D:\0 My Files\My Program\Csharp\ASCIIConverter\ASCIIConverter\bin\Debug\ASCIIConverter.exe
+D:\0 My Files\My Program\Csharp\ASCIIConverter\ASCIIConverter\bin\Debug\ASCIIConverter.pdb
+D:\0 My Files\My Program\Csharp\ASCIIConverter\ASCIIConverter\obj\Debug\ASCIIConverter.csproj.AssemblyReference.cache
+D:\0 My Files\My Program\Csharp\ASCIIConverter\ASCIIConverter\obj\Debug\ASCIIConverter.csproj.CoreCompileInputs.cache
+D:\0 My Files\My Program\Csharp\ASCIIConverter\ASCIIConverter\obj\Debug\ASCIIConverter.exe
+D:\0 My Files\My Program\Csharp\ASCIIConverter\ASCIIConverter\obj\Debug\ASCIIConverter.pdb
